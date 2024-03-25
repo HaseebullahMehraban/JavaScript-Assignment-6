@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.game {
+    border: solid black 1px;
+    width: 500px;
+    box-shadow: 0cap;
+    margin: auto;
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.input-container {
+    margin-top: 20px;
+}
+
+.input-container input {
+    width: 200px;
+    padding: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+#submitBtn {
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#message {
+    margin-top: 20px;
+    font-weight: bold;
+}
